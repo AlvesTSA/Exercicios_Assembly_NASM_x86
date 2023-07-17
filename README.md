@@ -1088,7 +1088,7 @@ int flags</td><td></td><td></td><td></td><td></td></tr>
 </summary>
 
 
-  <table>
+  <table align = "center">
     <tr>
       <th>Mnemônico</th>
       <th>Descrição</th>
