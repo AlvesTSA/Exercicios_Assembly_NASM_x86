@@ -1084,7 +1084,7 @@ int flags</td><td></td><td></td><td></td><td></td></tr>
 
 <details>
 <summary align = "center"> 
-<h2 align = "center">"TABLE OF ASSEMBLY X86 64-BIT MNEMONICS"</h2>
+<h2 align = "center">TABLE OF ASSEMBLY X86 64-BIT MNEMONICS</h2>
 </summary>
 
 
