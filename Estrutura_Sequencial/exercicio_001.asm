@@ -2,8 +2,8 @@
 
 section .data
         
-    msg db 'Olá, mundo !', 0x0A     ; 10 é o código de escape para '\n'
-    len equ $ - msg                 ; contagem automática de caracteres da msg
+    msg db 'Olá, mundo !', 0x0A    ; 10 é o código de escape para '\n'
+    len equ $ - msg                ; contagem automática de caracteres da msg
 
 section .text
 
