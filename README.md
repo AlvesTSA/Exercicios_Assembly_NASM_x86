@@ -17,10 +17,7 @@
 <strong>  a)</strong> Familiaridade com a arquitetura do processador: Assembly é uma linguagem de baixo nível que se aproxima das instruções do processador subjacente. Portanto, você precisa estar familiarizado com a arquitetura do processador específico em que deseja programar. Por exemplo, x86, ARM, MIPS, etc. É necessário saber sobre registradores, modos de endereçamento e instruções específicas da arquitetura.
 </p>
 <p align="justify">
-<strong>  b)</strong> Como declarar variáveis:
-Em assembly, as variáveis são representadas por registradores ou posições de memória. Antes de usar uma variável, é necessário declará-la reservando espaço na memória. O processo de reserva de memória pode variar dependendo da arquitetura específica. Por exemplo, em x86, você pode usar a instrução "MOV" para reservar espaço na pilha para uma variável.
-
-
+<strong>  b)</strong> Como declarar variáveis:Em assembly, as variáveis não são declaradas da mesma forma que em linguagens de alto nível. As variáveis em assembly são representadas por registradores ou posições de memória. Antes de usar uma variável, é necessário reservar espaço na memória para ela, e a instrução usada para essa finalidade pode variar dependendo do tipo de dado. Por exemplo, em x86, você pode usar as instruções RESB para reservar espaço para uma string e RESQ para reservar espaço para um inteiro na memória."
 </p>
 <p align="justify">
 <strong>  c)</strong>  Como atribuir valores para variáveis:
