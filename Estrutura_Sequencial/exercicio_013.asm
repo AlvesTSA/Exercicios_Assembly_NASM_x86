@@ -289,7 +289,4 @@ double_to_string_peso_mulher:
              
     jnz int_to_string_int_part_next_digit_loop_peso_mulher
         ret
-
-
-        ; nasm -f elf64 exercicio013.asm -o exercicio013.o && ld exercicio013.o -o exercicio013 && ./exercicio013
-
+        
